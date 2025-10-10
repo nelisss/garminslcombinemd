@@ -37,4 +37,4 @@ The following options are recognized:
 | -h --help | Print help. | - |
 | -g --garmin-directory | Path to directory with Garmin markdown files. Default: interactive directory picker. | Valid path to directory with Garmin markdown files or "interactive" to be prompted with file picker. |
 | -s --strengthlevel-directory | Path to directory with Strength Level markdown files. Default: interactive directory picker. | Valid path to directory with Garmin markdown files or "interactive" to be prompted with file picker. |
-| -d --directory | Output directory to save .md files to. Default: working directory. | Valid path to folder. Can create one folder, but not recursively. |
+| -d --directory | Output directory to save .md files to. Default: <working directory>/output. | Valid path to folder. Can create one folder, but not recursively. |

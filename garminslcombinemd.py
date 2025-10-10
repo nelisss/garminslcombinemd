@@ -13,7 +13,7 @@ long_options = ["help", "garmin-directory=", "strengthlevel-directory=", "direct
 
 garmin_md_path = "interactive"
 sl_md_path = "interactive"
-output_dir = os.getcwd()
+output_dir = os.getcwd() + "/output"
 
 try:
     arguments, values = getopt.getopt(args, options, long_options)
