@@ -33,7 +33,7 @@ chmod +x install.sh
 source venv/bin/activate
 ```
 
-1. Run the python script
+3. Run the python script
 
 ```
 python garminslcombinemd.py [options]
